@@ -12,7 +12,6 @@ func max(x, y int) int {
 	return y
 }
 
-
 func twoSum(nums []int, target int) []int {
 	hashTable := make(map[int]int)
 
