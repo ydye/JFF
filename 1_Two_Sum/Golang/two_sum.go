@@ -1,5 +1,5 @@
 package Golang
-// When submit the code on leetcode, please remove the line packe Golang.
+// When submit the code on leetcode, please remove the line package Golang.
 
 func min(x, y int) int {
 	if x < y {
