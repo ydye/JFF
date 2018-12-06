@@ -1,5 +1,4 @@
-package main
-
+package Golang
 // When submit the code on leetcode, please remove the line package Golang.
 
 func removeElement(nums []int, val int) int {
